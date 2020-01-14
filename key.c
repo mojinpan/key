@@ -1,7 +1,7 @@
 /** ****************************************************************************
 * @file 		key.c
 * @author 	mojinpan
-* @copyright (c) 2018 - 2019 BRC Tech. Co., Ltd.
+* @copyright (c) 2018 - 2020 mojinpan
 * @brief 		按键驱动
 * 
 * @version 	V0.1 
